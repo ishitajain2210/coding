@@ -32,15 +32,15 @@ section>h2 {
     padding-top: 10px;
 }
 
-section.lebesgue>h2 {
+section.Pizza>h2 {
     background-color: #76b8db;
 }
 
-section.fubini>h2 {
+section.Burger>h2 {
     background-color: #4f7acd;
 }
 
-section.luzin>h2 {
+section.Noodles>h2 {
     color: #e2e2e2;
     background-color: #10328a;
 }
@@ -187,4 +187,4 @@ section>p {
         width: 100%;
     }
 }
-© 2020 GitHub, Inc.
+.
